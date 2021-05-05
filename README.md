@@ -1,0 +1,1 @@
+# never give up bot is a bot to tweet a motivational video when someone tweets that will quit something
